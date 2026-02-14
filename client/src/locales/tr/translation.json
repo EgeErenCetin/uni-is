@@ -1,0 +1,257 @@
+{
+    "navbar": {
+        "brand": "Üni-İş",
+        "listings": "İlanlar",
+        "createListing": "İlan Ver",
+        "messages": "Mesajlar",
+        "profile": "Profil",
+        "logout": "Çıkış",
+        "login": "Giriş",
+        "register": "Kayıt Ol",
+        "toggleTheme": "Temayı değiştir",
+        "toggleLanguage": "Dili değiştir"
+    },
+    "home": {
+        "hero": {
+            "title": "Üniversite Öğrencileri İçin <0>Hizmet ve Yetenek</0> Platformu",
+            "description": "Kampüs içinde ders, yazılım, tasarım, çeviri ve daha fazlası için güvenilir öğrenci ağını keşfet. Yeteneğini paylaş, gelir elde et ve yeni insanlarla tanış.",
+            "startNow": "Hemen Başla",
+            "viewListings": "İlanları Görüntüle",
+            "postListing": "Hemen İlan Ver",
+            "allListings": "Tüm İlanlar",
+            "tags": {
+                "studentsOnly": "Sadece üniversite öğrencileri",
+                "ratingSystem": "Profil ve puanlama sistemi",
+                "secureMessaging": "Güvenli mesajlaşma"
+            }
+        },
+        "categories": {
+            "title": "Popüler Kategoriler",
+            "items": [
+                {
+                    "title": "Ders Destek",
+                    "desc": "Matematik, fizik, yabancı dil ve daha fazlası."
+                },
+                {
+                    "title": "Yazılım & IT",
+                    "desc": "Web geliştirme, mobil uygulama, veri analizi."
+                },
+                {
+                    "title": "Tasarım & Kreatif",
+                    "desc": "Logo, sosyal medya, sunum tasarımı."
+                },
+                {
+                    "title": "Özel Yetenekler",
+                    "desc": "Müzik, spor, fotoğrafçılık ve daha fazlası."
+                }
+            ]
+        },
+        "motivation": {
+            "title": "Motivasyonumuz",
+            "p1": "Üniversite yıllarının sadece derslerden ibaret olmadığını biliyoruz. Bu dönemde hem kendini geliştirebileceğin hem de ekonomik olarak rahatlayabileceğin, güvenli ve öğrenci odaklı bir alan yaratmak istedik.",
+            "p2": "Üni-İş, kampüs içinde zaten var olan paylaşım kültürünü dijital ortama taşıyarak öğrencilerin birbirine destek olmasını, yeteneklerini görünür kılmasını ve gerçek projelerle deneyim kazanmasını hedefleyen bir platformdur."
+        },
+        "howItWorks": {
+            "title": "Nasıl Çalışır?",
+            "steps": [
+                {
+                    "title": "Profilini Oluştur",
+                    "desc": "Üniversiteni, bölümünü, yeteneklerini ve seni anlatan kısa bir biyografiyi ekleyerek diğer öğrencilerin güvenle seni bulmasını sağla. Profil fotoğrafı ve puanlarınla öne çık."
+                },
+                {
+                    "title": "İlan Ver ve İlan Bul",
+                    "desc": "Ders desteği, yazılım projesi, tasarım işi veya özel yeteneklerin için ilan aç. Filtreleri kullanarak kampüsündeki uygun ilanları kategori, yer ve açıklamaya göre kolayca keşfet."
+                },
+                {
+                    "title": "Mesajlar ile Detayları Konuş",
+                    "desc": "Gerçek zamanlı mesajlaşma ile saat, ücret, beklentiler ve proje detaylarını netleştir. Tüm konuşmalarını tek bir yerde takip et; iş bittikten sonra değerlendirme yaparak topluluğa katkı sağla."
+                }
+            ]
+        },
+        "benefits": [
+            {
+                "title": "Ders Ver",
+                "desc": "Bildiğin konularda ders vererek hem bilgini taze tut hem de gelir elde et."
+            },
+            {
+                "title": "Hizmet Al",
+                "desc": "İhtiyacın olan desteği öğrenci arkadaşlarından, öğrenci dostu fiyatlarla al."
+            },
+            {
+                "title": "Güvenli Topluluk",
+                "desc": "Puanlama ve yorum sistemiyle güvenilir profilleri kolayca ayırt et."
+            }
+        ],
+        "testimonials": {
+            "title": "Öğrenciler Ne Diyor?",
+            "items": [
+                {
+                    "name": "Ayşe, Bilgisayar Mühendisliği",
+                    "text": "Üni-İş sayesinde front-end yeteneklerimle ek gelir elde etmeye başladım. Aynı bölümden arkadaşlarla da tanıştım."
+                },
+                {
+                    "name": "Mehmet, İşletme",
+                    "text": "Finans dersi için destek ararken birkaç saat içinde bölümümden bir öğrenciyle eşleştim. Notlarım ciddi şekilde yükseldi."
+                },
+                {
+                    "name": "Zeynep, Psikoloji",
+                    "text": "Sunum ve proje ödevleri için tasarım desteğini hep buradan buluyorum. Profil ve yorum sistemi güven veriyor."
+                },
+                {
+                    "name": "Can, Elektrik-Elektronik",
+                    "text": "Hafta sonları matematik dersi veriyorum. Hem bilgilerim taze kalıyor hem de aylık giderlerime katkı sağlıyor."
+                },
+                {
+                    "name": "Elif, İngiliz Dili ve Edebiyatı",
+                    "text": "Çeviri ve konuşma pratiği için ilan açtım, farklı bölümlerden birçok insanla tanıştım. Esnek bir çalışma ortamı sunuyor."
+                },
+                {
+                    "name": "Burak, Endüstri Mühendisliği",
+                    "text": "Kampüs içi ilanları tek bir yerde görmek büyük kolaylık. Mesajlaşma sistemiyle detayları hızlıca konuşabiliyoruz."
+                }
+            ]
+        }
+    },
+    "listings": {
+        "title": "İlanlar",
+        "searchPlaceholder": "İlan ara (başlık / açıklama)...",
+        "locationPlaceholder": "Yer (şehir / kampüs)",
+        "categoryPlaceholder": "Tümü",
+        "price": "₺",
+        "noListings": "Henüz ilan bulunmamaktadır.",
+        "student": "Üniversite Öğrencisi",
+        "categories": {
+            "all": "Tümü",
+            "tutoring": "Ders Verme",
+            "software": "Yazılım",
+            "design": "Tasarım",
+            "language": "Dil",
+            "music": "Müzik",
+            "sports": "Spor",
+            "other": "Diğer"
+        }
+    },
+    "createListing": {
+        "title": "Yeni İlan Oluştur",
+        "subtitle": "Yeteneklerini paylaş veya ihtiyacın olan desteği bul.",
+        "form": {
+            "title": {
+                "label": "İlan Başlığı",
+                "placeholder": "Örn: Matematik Özel Ders, Web Sitesi Tasarımı...",
+                "required": "Başlık gereklidir"
+            },
+            "category": {
+                "label": "Kategori",
+                "placeholder": "Seçiniz",
+                "required": "Kategori gereklidir"
+            },
+            "price": {
+                "label": "Fiyat (Opsiyonel)",
+                "placeholder": "0.00"
+            },
+            "description": {
+                "label": "Detaylı Açıklama",
+                "placeholder": "İlanınız hakkında detaylı bilgi verin...",
+                "required": "Açıklama gereklidir"
+            },
+            "duration": {
+                "label": "Süre / Zaman (Opsiyonel)",
+                "placeholder": "Örn: Haftada 2 saat, Proje bazlı, Tek seferlik..."
+            },
+            "cancel": "İptal",
+            "submit": "İlanı Yayınla",
+            "submitting": "Oluşturuluyor..."
+        },
+        "success": "İlan oluşturuldu",
+        "error": "İlan oluşturulamadı"
+    },
+    "login": {
+        "title": "Üni-İş'e Giriş Yap",
+        "subtitle": "Hesabına giriş yap, üniversite ağındaki ilanlara ve mesajlarına hemen ulaş.",
+        "email": "Email",
+        "password": "Şifre",
+        "submit": "Giriş Yap",
+        "submitting": "Giriş yapılıyor...",
+        "noAccount": "Hesabınız yok mu?",
+        "registerNow": "Hemen kayıt ol",
+        "terms": "Giriş yaparak kullanım şartlarını ve gizlilik politikasını kabul etmiş olursunuz.",
+        "errors": {
+            "emailRequired": "Email gereklidir",
+            "emailInvalid": "Geçerli bir email adresi giriniz",
+            "passwordRequired": "Şifre gereklidir",
+            "passwordMin": "Şifre en az 6 karakter olmalıdır"
+        }
+    },
+    "register": {
+        "title": "Kayıt Ol",
+        "name": "İsim",
+        "email": "Email",
+        "password": "Şifre",
+        "university": "Üniversite",
+        "department": "Bölüm",
+        "submit": "Kayıt Ol",
+        "submitting": "Kayıt yapılıyor...",
+        "hasAccount": "Zaten hesabınız var mı?",
+        "login": "Giriş yap",
+        "errors": {
+            "nameRequired": "İsim gereklidir",
+            "emailRequired": "Email gereklidir",
+            "emailInvalid": "Geçerli bir email adresi giriniz",
+            "passwordRequired": "Şifre gereklidir",
+            "passwordMin": "Şifre en az 6 karakter olmalıdır"
+        }
+    },
+    "footer": {
+        "rights": "© {{year}} Üni-İş. Tüm hakları saklıdır.",
+        "about": "Hakkımızda",
+        "contact": "İletişim"
+    },
+    "messages": {
+        "title": "Mesajlar",
+        "online": "Çevrimiçi",
+        "typeMessage": "Bir mesaj yazın...",
+        "noMessages": "Henüz mesajınız yok",
+        "startConversation": "İlanlar üzerinden iletişime geçebilirsiniz.",
+        "startChat": {
+            "title": "Sohbeti Başlatın",
+            "desc": "İlk mesajı göndererek iletişime geçin."
+        },
+        "selectConversation": {
+            "title": "Mesajlarınız",
+            "desc": "Konuşmalarınızı buradan yönetebilir, ilan sahipleriyle iletişime geçebilirsiniz. Sol taraftaki listeden bir kişi seçin."
+        }
+    },
+    "profile": {
+        "title": "Profil Bilgileri",
+        "edit": "Düzenle",
+        "save": "Kaydet",
+        "saving": "Kaydediliyor...",
+        "cancel": "İptal",
+        "reviews": "Değerlendirmeler",
+        "reviewCount": "({{count}} değerlendirme)",
+        "listing": "İlan: {{title}}",
+        "form": {
+            "name": {
+                "label": "İsim",
+                "required": "İsim gereklidir"
+            },
+            "university": "Üniversite",
+            "department": "Bölüm",
+            "bio": "Biyografi",
+            "skills": {
+                "label": "Yetenekler (virgülle ayırın)",
+                "placeholder": "React, Node.js, Tasarım"
+            },
+            "email": "Email"
+        },
+        "messages": {
+            "loadError": "Profil yüklenemedi",
+            "updateSuccess": "Profil güncellendi",
+            "updateError": "Profil güncellenemedi",
+            "avatarSuccess": "Profil fotoğrafı güncellendi",
+            "avatarError": "Profil fotoğrafı güncellenemedi",
+            "fileSize": "Dosya boyutu 5MB'dan küçük olmalıdır",
+            "userNotFound": "Kullanıcı bulunamadı"
+        }
+    }
+}

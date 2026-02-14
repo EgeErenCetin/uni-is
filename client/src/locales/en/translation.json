@@ -1,0 +1,257 @@
+{
+    "navbar": {
+        "brand": "Üni-İş",
+        "listings": "Listings",
+        "createListing": "Post Job",
+        "messages": "Messages",
+        "profile": "Profile",
+        "logout": "Logout",
+        "login": "Login",
+        "register": "Register",
+        "toggleTheme": "Toggle theme",
+        "toggleLanguage": "Toggle language"
+    },
+    "home": {
+        "hero": {
+            "title": "<0>Service and Experience</0> Platform for University Students",
+            "description": "Discover a reliable student network for tutoring, software, design, translation and more within the campus. Share your talent, earn income and meet new people.",
+            "startNow": "Start Now",
+            "viewListings": "View Listings",
+            "postListing": "Post a Listing",
+            "allListings": "All Listings",
+            "tags": {
+                "studentsOnly": "Only university students",
+                "ratingSystem": "Profile and rating system",
+                "secureMessaging": "Secure messaging"
+            }
+        },
+        "categories": {
+            "title": "Popular Categories",
+            "items": [
+                {
+                    "title": "Tutoring",
+                    "desc": "Math, physics, foreign languages and more."
+                },
+                {
+                    "title": "Software & IT",
+                    "desc": "Web development, mobile apps, data analysis."
+                },
+                {
+                    "title": "Design & Creative",
+                    "desc": "Logo, social media, presentation design."
+                },
+                {
+                    "title": "Special Talents",
+                    "desc": "Music, sports, photography and more."
+                }
+            ]
+        },
+        "motivation": {
+            "title": "Our Motivation",
+            "p1": "We know that university years are not just about classes. We wanted to create a secure and student-focused space where you can both improve yourself and relax economically.",
+            "p2": "Üni-İş is a platform that aims to carry the existing sharing culture on campus to the digital environment, allowing students to support each other, make their talents visible and gain experience with real projects."
+        },
+        "howItWorks": {
+            "title": "How It Works?",
+            "steps": [
+                {
+                    "title": "Create Your Profile",
+                    "desc": "Add your university, department, skills and a short biography describing you so that other students can find you safely. Stand out with your profile photo and scores."
+                },
+                {
+                    "title": "Post a Listing and Find a Listing",
+                    "desc": "Open a listing for tutoring, software project, design work or special talents. Easily discover suitable listings on your campus by category, location and description using filters."
+                },
+                {
+                    "title": "Discuss Details via Messages",
+                    "desc": "Clarify time, price, expectations and project details with real-time messaging. Track all your conversations in one place; contribute to the community by evaluating after the job is done."
+                }
+            ]
+        },
+        "benefits": [
+            {
+                "title": "Give Lessons",
+                "desc": "Keep your knowledge fresh and earn income by teaching subjects you know."
+            },
+            {
+                "title": "Get Service",
+                "desc": "Get the support you need from student friends at student-friendly prices."
+            },
+            {
+                "title": "Safe Community",
+                "desc": "Easily distinguish reliable profiles with the scoring and comment system."
+            }
+        ],
+        "testimonials": {
+            "title": "What Students Say?",
+            "items": [
+                {
+                    "name": "Ayşe, Computer Engineering",
+                    "text": "Thanks to Üni-İş, I started earning extra income with my front-end skills. I also met friends from the same department."
+                },
+                {
+                    "name": "Mehmet, Business Administration",
+                    "text": "While looking for support for a finance class, I matched with a student from my department within a few hours. My grades improved significantly."
+                },
+                {
+                    "name": "Zeynep, Psychology",
+                    "text": "I always find design support for presentations and project assignments here. The profile and comment system gives confidence."
+                },
+                {
+                    "name": "Can, Electrical-Electronics",
+                    "text": "I give math lessons on weekends. It keeps my knowledge fresh and contributes to my monthly expenses."
+                },
+                {
+                    "name": "Elif, English Language and Literature",
+                    "text": "I opened a listing for translation and speaking practice, I met many people from different departments. It offers a flexible working environment."
+                },
+                {
+                    "name": "Burak, Industrial Engineering",
+                    "text": "Seeing on-campus listings in one place is a great convenience. We can discuss details quickly with the messaging system."
+                }
+            ]
+        }
+    },
+    "listings": {
+        "title": "Listings",
+        "searchPlaceholder": "Search listings (title / description)...",
+        "locationPlaceholder": "Location (city / campus)",
+        "categoryPlaceholder": "All",
+        "price": "₺",
+        "noListings": "No listings found yet.",
+        "student": "University Student",
+        "categories": {
+            "all": "All",
+            "tutoring": "Tutoring",
+            "software": "Software",
+            "design": "Design",
+            "language": "Language",
+            "music": "Music",
+            "sports": "Sports",
+            "other": "Other"
+        }
+    },
+    "createListing": {
+        "title": "Create New Listing",
+        "subtitle": "Share your skills or find the support you need.",
+        "form": {
+            "title": {
+                "label": "Listing Title",
+                "placeholder": "Ex: Math Private Lesson, Website Design...",
+                "required": "Title is required"
+            },
+            "category": {
+                "label": "Category",
+                "placeholder": "Select",
+                "required": "Category is required"
+            },
+            "price": {
+                "label": "Price (Optional)",
+                "placeholder": "0.00"
+            },
+            "description": {
+                "label": "Detailed Description",
+                "placeholder": "Give detailed information about your listing...",
+                "required": "Description is required"
+            },
+            "duration": {
+                "label": "Duration / Time (Optional)",
+                "placeholder": "Ex: 2 hours a week, Project based, One time..."
+            },
+            "cancel": "Cancel",
+            "submit": "Post Listing",
+            "submitting": "Creating..."
+        },
+        "success": "Listing created",
+        "error": "Failed to create listing"
+    },
+    "login": {
+        "title": "Login to Üni-İş",
+        "subtitle": "Login to your account, reach listings and messages in university network immediately.",
+        "email": "Email",
+        "password": "Password",
+        "submit": "Login",
+        "submitting": "Logging in...",
+        "noAccount": "Don't have an account?",
+        "registerNow": "Register now",
+        "terms": "By logging in, you agree to the terms of use and privacy policy.",
+        "errors": {
+            "emailRequired": "Email is required",
+            "emailInvalid": "Please enter a valid email address",
+            "passwordRequired": "Password is required",
+            "passwordMin": "Password must be at least 6 characters"
+        }
+    },
+    "register": {
+        "title": "Register",
+        "name": "Name",
+        "email": "Email",
+        "password": "Password",
+        "university": "University",
+        "department": "Department",
+        "submit": "Register",
+        "submitting": "Registering...",
+        "hasAccount": "Already have an account?",
+        "login": "Login",
+        "errors": {
+            "nameRequired": "Name is required",
+            "emailRequired": "Email is required",
+            "emailInvalid": "Please enter a valid email address",
+            "passwordRequired": "Password is required",
+            "passwordMin": "Password must be at least 6 characters"
+        }
+    },
+    "footer": {
+        "rights": "© {{year}} Üni-İş. All rights reserved.",
+        "about": "About Us",
+        "contact": "Contact"
+    },
+    "messages": {
+        "title": "Messages",
+        "online": "Online",
+        "typeMessage": "Type a message...",
+        "noMessages": "No messages yet",
+        "startConversation": "You can contact via listings.",
+        "startChat": {
+            "title": "Start Chat",
+            "desc": "Contact by sending the first message."
+        },
+        "selectConversation": {
+            "title": "Your Messages",
+            "desc": "You can manage your conversations here, contact with listing owners. Select a person from the list on the left."
+        }
+    },
+    "profile": {
+        "title": "Profile Info",
+        "edit": "Edit",
+        "save": "Save",
+        "saving": "Saving...",
+        "cancel": "Cancel",
+        "reviews": "Reviews",
+        "reviewCount": "({{count}} reviews)",
+        "listing": "Listing: {{title}}",
+        "form": {
+            "name": {
+                "label": "Name",
+                "required": "Name is required"
+            },
+            "university": "University",
+            "department": "Department",
+            "bio": "Bio",
+            "skills": {
+                "label": "Skills (comma separated)",
+                "placeholder": "React, Node.js, Design"
+            },
+            "email": "Email"
+        },
+        "messages": {
+            "loadError": "Failed to load profile",
+            "updateSuccess": "Profile updated",
+            "updateError": "Failed to update profile",
+            "avatarSuccess": "Profile photo updated",
+            "avatarError": "Failed to update profile photo",
+            "fileSize": "File size must be less than 5MB",
+            "userNotFound": "User not found"
+        }
+    }
+}
