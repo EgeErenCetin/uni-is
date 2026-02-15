@@ -3,6 +3,9 @@ import axios from 'axios';
 const API_URL = import.meta.env.VITE_API_URL;
 
 console.log("Bağlanılan API Adresi:", API_URL);
+console.log('VITE_API_URL:', import.meta.env.VITE_API_URL)
+console.log('All env:', import.meta.env)
+console.log('MODE:', import.meta.env.MODE)
 
 const api = axios.create({
   baseURL: API_URL,
